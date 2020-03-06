@@ -1,7 +1,12 @@
+OCEAN
 The ocean is blue
 The air is transparent
 The smell is great
 
 These things are combined together
+
+LAND
+The sun is yellow
+The forests are green
 
 // Nestor

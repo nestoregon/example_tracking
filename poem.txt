@@ -1,4 +1,7 @@
 The ocean is blue
 The air is transparent
+The smell is great
+
+These things are combined together
 
 // Nestor

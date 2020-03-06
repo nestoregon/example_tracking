@@ -1,4 +1,9 @@
+OCEAN
 The ocean is blue
 The air is transparent
+
+LAND
+The sun is yellow
+The forests are green
 
 // Nestor
